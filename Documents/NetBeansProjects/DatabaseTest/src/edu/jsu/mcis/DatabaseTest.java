@@ -23,6 +23,7 @@ public class DatabaseTest {
         JSONArray jsonArray = null;
 
         try {
+            
             String server = ("jdbc:mysql://localhost/p2_test");
             String username = "root";
             String pass = "CS488";
